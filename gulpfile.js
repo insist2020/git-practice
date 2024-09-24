@@ -10,6 +10,10 @@ module.exports = {
     func,
     bar
 }
+
+
+
+
 console.log("endzzz");
 console.log("yuweizzz");
 console.log("cailie");
