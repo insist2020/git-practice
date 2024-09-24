@@ -11,3 +11,8 @@ module.exports = {
     bar
 }
 console.log("end");
+<<<<<<< HEAD
+console.log("yuwei");
+=======
+console.log("cailie");
+>>>>>>> a8a8b8a (add name)
