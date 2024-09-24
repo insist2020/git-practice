@@ -10,6 +10,10 @@ module.exports = {
     func,
     bar
 }
+
+
+
+
 console.log("endzzz");
 
 
