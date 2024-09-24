@@ -6,3 +6,4 @@ const bar = ()=>{
     console.log("bar run");
 }
 exports.func = func;
+exports.bar = bar;
