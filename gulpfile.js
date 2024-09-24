@@ -10,7 +10,7 @@ module.exports = {
     func,
     bar
 }
-console.log("endxxx");
-console.log("yuweixxx");
+console.log("endyyy");
+console.log("yuweiyyy");
 console.log("cailie");
 
