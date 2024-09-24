@@ -1,3 +1,4 @@
+const { series } = require("gulp");
 const func = ()=>{
     console.log("Hello Gulp!");
 }
@@ -5,4 +6,4 @@ const func = ()=>{
 const bar = ()=>{
     console.log("bar run");
 }
-exports.func = func;
+exports.ser = series(func, bar);
