@@ -11,3 +11,4 @@ module.exports = {
     bar
 }
 console.log("end");
+console.log("yuwei");
