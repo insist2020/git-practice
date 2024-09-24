@@ -1,4 +1,4 @@
-const { series } = require("gulp");
+console.log("begin")
 const func = ()=>{
     console.log("Hello Gulp!");
 }
@@ -6,4 +6,9 @@ const func = ()=>{
 const bar = ()=>{
     console.log("bar run");
 }
-exports.ser = series(func, bar);
+module.exports = {
+    func,
+    bar
+}
+console.log("end");
+console.log("yuwei");
