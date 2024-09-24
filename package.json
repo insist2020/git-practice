@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/insist2020/git-practice/issues"
   },
-  "homepage": "https://github.com/insist2020/git-practice#readme"
+  "homepage": "https://github.com/insist2020/git-practice#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
 }
