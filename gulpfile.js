@@ -1,3 +1,4 @@
+console.log("begin")
 const func = ()=>{
     console.log("Hello Gulp!");
 }
