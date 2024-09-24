@@ -13,6 +13,11 @@ module.exports = {
 console.log("end");
 <<<<<<< HEAD
 console.log("yuwei");
+<<<<<<< HEAD
 =======
 console.log("cailie");
 >>>>>>> a8a8b8a (add name)
+=======
+console.log("diff");
+
+>>>>>>> 67e7933 (add diff)
