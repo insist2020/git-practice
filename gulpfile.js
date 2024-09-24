@@ -10,6 +10,6 @@ module.exports = {
     func,
     bar
 }
-console.log("end");
-console.log("yuwei");
+console.log("endxxx");
+console.log("yuweixxx");
 console.log("cailie");
